@@ -89,8 +89,8 @@ body {
 }
 .btn__danger {
  color: #fff;
- background-color: #ca3c3c;
- border-color: #bd2130;
+ background-color: salmon;
+ border-color: salmon;
 }
 .btn__filter {
  border-color: lightgrey;
